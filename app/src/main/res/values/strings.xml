@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bayu_1202154127_Modul3</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Masuk</string>
+    <string name="splash_text">splash</string>
+</resources>
